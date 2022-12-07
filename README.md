@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @takirami
+- 👀 I’m interested in React and Node things
+- 🌱 I’m currently learning devops things and backend
+- 💞️ I’m looking to collaborate on anything really
